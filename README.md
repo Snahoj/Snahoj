@@ -11,7 +11,7 @@
 >Un saludo. 
 
 -------------
-
+## Alias mas usados por ahora
 | Commands | Alias | Description | 
 | -------- | ------| ----------- |
 | Clear | CLS | To clear de CLI |
