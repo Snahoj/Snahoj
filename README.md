@@ -1,17 +1,20 @@
 ### Hi there 👋
-# Hola soy Johanss
+
 
 ### **About Me**
->Tengo 34 años , Quiero aprender a programar para cambiar de profesion. Vivo en españa , tengo una niña de 4 años dos perretes y un gato , tambien practico boxeo ya no de manera amateur o profesional debido a lesiones, pero si como aficionado.
 
->Vivo en españa pero origalmente soy de venezuela vine a los 19 años, actualmente trabajo en el aeropuerto de Madrid-Baraja como dependiente .
+>Hi there! My name is Johanss, and I'm 34 years old. I live in Spain and currently work as a sales assistant at Madrid-Barajas Airport. However, I have decided to switch careers and pursue programming. Although I'm just a beginner, I'm eager to learn as much as I can about this exciting field.
 
->Por mi cuenta estuve estudiando algo de javascript pero nada mas soy un principiante en todo esto. Solo traigo ganas de aprender y tambien que me gusta mucho este mundo.
+>I have a 4-year-old daughter and three pets - two dogs and a cat - that bring me joy and adventure. I'm also an amateur boxer, although I can't do it professionally anymore due to some injuries.
 
->Un saludo. 
+>I'm originally from Venezuela, but I moved to Spain when I was 19 in search of new opportunities. Since then, I've worked hard to build a life here, and now I'm excited to start a new chapter in my career.
+
+>Recently, I've been studying some JavaScript on my own, and I'm excited to continue learning more about this language and other programming languages. I'm highly motivated by the possibility of exploring new opportunities and developing skills in a field that I'm passionate about.
+
+In summary, I'm a programming enthusiast with a strong desire to learn and improve. I'm excited to see where this new adventure takes me and hope to keep learning and growing in this field.
 
 -------------
-## Alias mas usados por ahora
+## "Most commonly used aliases currently."
 | Commands | Alias | Description | 
 | -------- | ------| ----------- |
 | Clear | CLS | To clear de CLI |
