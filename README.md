@@ -1,8 +1,4 @@
 ### Hi there 👋
-
-<!--
-**Snahoj/Snahoj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 # Hola soy Johanss
 
 ### **About Me**
@@ -24,4 +20,8 @@
 - 🔭 I’m currently working on my Own...
 - 🌱 I’m currently learning Javascript...
 - 💬 Ask me about not much becuz im new ...
+<!--
+**Snahoj/Snahoj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+
 -->
