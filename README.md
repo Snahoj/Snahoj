@@ -35,8 +35,10 @@ Some commands i learned
 - 🔭 I’m currently working on my Own...
 - 🌱 I’m currently learning Javascript and git...
 - 💬 Ask me about not much becuz im new ...
+
+*Nota: esta en ingles todo para ir practicando*
 <!--
 **Snahoj/Snahoj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-
+   
+  
 -->
