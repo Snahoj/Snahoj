@@ -15,10 +15,10 @@ In summary, I'm a programming enthusiast with a strong desire to learn and impro
 
 -------------
 ## "Most commonly used aliases currently."
-| Commands | Alias | Description | 
-| -------- | ------| ----------- |
-| Clear | CLS | To clear de CLI |
-| Mkdir | Mdir| To make a new dir| 
+| Commands | Alias | Description      | 
+| -------- | ------| -----------      |
+| Clear    | CLS   | CLI clear        |
+| Mkdir    | Mdir  | To make a new dir| 
 
 - 🔭 I’m currently working on my Own...
 - 🌱 I’m currently learning Javascript...
