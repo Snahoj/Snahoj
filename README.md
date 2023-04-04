@@ -19,9 +19,21 @@ In summary, I'm a programming enthusiast with a strong desire to learn and impro
 | -------- | ------| -----------      |
 | Clear    | CLS   | CLI clear        |
 | Mkdir    | Mdir  | To make a new dir| 
+-------------------------------------------------------
+Some commands i learned 
+
+| Command | Description             |
+| ---------| ---------------------  |
+| cd       | Go up a directory      |
+| pwd      | Show current directory |
+| rm       | remove a file          |
+| ls       | List files             |
+| date     | System Date            |
+
+
 
 - 🔭 I’m currently working on my Own...
-- 🌱 I’m currently learning Javascript...
+- 🌱 I’m currently learning Javascript and git...
 - 💬 Ask me about not much becuz im new ...
 <!--
 **Snahoj/Snahoj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
